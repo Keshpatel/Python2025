@@ -12,6 +12,8 @@ for line in inputFile:
        nonSelected.write(line)
 inputFile.close()
 
+#--------------------------from one CSV file to writing in two different CSV file ------------------------------
+#txt file CSV seperated by (,) 
 file1 = open('Student.csv', 'r', newline='')
 file2 = open('selected.csv','w', newline='')
 file3 = open('nonselected.csv', 'w', newline='')
