@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<dependencies> 
+    <group_Id>
+        <artifactId>selenium-java</artifactId>
+        <version>4.35.0</version>
+        <Num>6.9</Num>
+    </group_Id>
+    <group_Id>
+        <artifactId>maven-dependency-plugin</artifactId>
+        <version>3.8.1</version>
+        <Num>7.0</Num>
+    </group_Id>
+    <group_Id>
+        <artifactId>webdrivermanager</artifactId>
+        <version>6.3.2</version>
+        <Num>1.0</Num>
+    </group_Id>
+    <group_Id>
+        <artifactId>maven-surefire-plugin</artifactId>
+        <version>3.5.2</version>
+        <Num>10</Num>
+    </group_Id>
+</dependencies>
